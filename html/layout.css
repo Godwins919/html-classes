@@ -1,0 +1,36 @@
+.div1{
+    background-color: blue;
+    width: 100%;
+    height: 20%;
+}
+.div2{
+    background-color: red;
+    width: 100%;
+    height: 60%;
+}
+.div3{
+    background-color: yellow;
+    width: 100%;
+    height: 20%;
+}
+.kids{
+    background-color: black;
+    width: 800px;
+    height:600px ;
+    margin: auto;
+}
+.div4{
+    background-color: green;
+    height: 100%;
+    width: 30%;
+}
+.men{
+    text-align: center;
+    color: black;
+    padding-top: 50px;
+}
+.play{
+    text-align: center;
+    color: black;
+    padding-top: 50px;
+}
